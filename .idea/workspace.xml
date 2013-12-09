@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75b56f60-fec8-44b6-a925-bbb57e9725bb" name="Default" comment="" />
+    <list default="true" id="75b56f60-fec8-44b6-a925-bbb57e9725bb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buscando.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/half_life_AS_maior 3h.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/half_life_AS_menor 3h.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mRNA_enriched+exclusivo_nucleo_meia-vida.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bed_files/starBase2_NAR2014_HHFPT.bed.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bed_files/starBase2_NAR2014_HHLE1.bed.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bed_files/starBase2_NAR2014_HIMU1.bed.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bed_files/starBase2_NAR2014_HIUHC.bed.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bed_files/starBase2_NAR2014_HIUHN.bed.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bed_files/starBase2_NAR2014_HIUTI.bed.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bed_files/starBase2_NAR2014_HIUUC.bed.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AS_enriched+exclusivo_nucleo_meia-vida.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/starBase2_NAR2014_HHLE1.bed.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/starBase2_NAR2014_HIUHN.bed.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intersect.py" afterPath="$PROJECT_DIR$/intersect.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/rbp_pairclip.py.iml" afterPath="$PROJECT_DIR$/.idea/rbp_pairclip.py.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="rbp_pairclip.py.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,25 +45,45 @@
       <file leaf-file-name="intersect.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/intersect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="14" selection-start="215" selection-end="215" vertical-scroll-proportion="0.21174653" vertical-offset="28" max-vertical-offset="675">
+            <state line="13" column="48" selection-start="282" selection-end="282" vertical-scroll-proportion="0.56658596" vertical-offset="0" max-vertical-offset="936">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AS_enriched+exclusivo_nucleo_meia-vida.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AS_enriched+exclusivo_nucleo_meia-vida.txt">
+      <file leaf-file-name="buscando.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buscando.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="1787" selection-start="0" selection-end="72368" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4815">
+            <state line="2" column="33" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+              <folding>
+                <element signature="e#21#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="half_life_AS_maior 3h.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/half_life_AS_maior 3h.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="497" column="296" selection-start="154922" selection-end="154922" vertical-scroll-proportion="0.0" vertical-offset="8672" max-vertical-offset="9072">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mRNA_enriched+exclusivo_nucleo_meia-vida.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mRNA_enriched+exclusivo_nucleo_meia-vida.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3342" column="1783" selection-start="5287759" selection-end="5287759" vertical-scroll-proportion="-9.2" vertical-offset="59926" max-vertical-offset="60282">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="starBase2_NAR2014_HIUHN.bed.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/starBase2_NAR2014_HIUHN.bed.txt">
+        <entry file="file://$PROJECT_DIR$/bed_files/starBase2_NAR2014_HIUHN.bed.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="2400" max-vertical-offset="366810">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440172">
               <folding />
             </state>
           </provider>
@@ -57,19 +96,33 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/AS_enriched+exclusivo_nucleo_meia-vida.txt" />
+        <option value="$PROJECT_DIR$/half_life_AS_menor 3h.txt" />
+        <option value="$PROJECT_DIR$/mRNA_enriched+exclusivo_nucleo_meia-vida.txt" />
+        <option value="$PROJECT_DIR$/half_life_AS_maior 3h.txt" />
+        <option value="$PROJECT_DIR$/buscando.py" />
         <option value="$PROJECT_DIR$/intersect.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1375" />
+    <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -95,6 +148,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -103,34 +157,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rbp_pairclip.py" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rbp_pairclip.py" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bed_files" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.intersect">
+  <component name="RunManager" selected="Python.buscando">
     <configuration default="false" name="intersect" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,6 +195,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="rbp_pairclip.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intersect.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="buscando" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rbp_pairclip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buscando.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -270,16 +341,35 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.intersect" />
+      <item index="1" class="java.lang.String" itemvalue="Python.buscando" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.intersect" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.buscando" />
+        <item index="1" class="java.lang.String" itemvalue="Python.intersect" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="75b56f60-fec8-44b6-a925-bbb57e9725bb" name="Default" comment="" />
@@ -289,26 +379,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1375" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6703079" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32969216" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3229091" sideWeight="0.5974359" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54615384" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4025641" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -320,26 +410,65 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/starBase2_NAR2014_HIUHN.bed.txt">
+    <entry file="file://$PROJECT_DIR$/intersect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bed_files/starBase2_NAR2014_HIUHN.bed.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440172">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bed_files/starBase2_NAR2014_HIUHN.bed.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="366810">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AS_enriched+exclusivo_nucleo_meia-vida.txt">
+    <entry file="file://$PROJECT_DIR$/half_life_AS_menor 3h.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="1787" selection-start="0" selection-end="72368" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4815">
+        <state line="202" column="0" selection-start="62724" selection-end="62724" vertical-scroll-proportion="0.6785714" vertical-offset="3408" max-vertical-offset="3744">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mRNA_enriched+exclusivo_nucleo_meia-vida.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3342" column="1783" selection-start="5287759" selection-end="5287759" vertical-scroll-proportion="-9.2" vertical-offset="59926" max-vertical-offset="60282">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half_life_AS_maior 3h.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="497" column="296" selection-start="154922" selection-end="154922" vertical-scroll-proportion="0.0" vertical-offset="8697" max-vertical-offset="9072">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buscando.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+          <folding>
+            <element signature="e#21#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/intersect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="14" selection-start="215" selection-end="215" vertical-scroll-proportion="0.21174653" vertical-offset="28" max-vertical-offset="675">
+        <state line="13" column="48" selection-start="282" selection-end="282" vertical-scroll-proportion="0.56658596" vertical-offset="0" max-vertical-offset="936">
           <folding />
         </state>
       </provider>
