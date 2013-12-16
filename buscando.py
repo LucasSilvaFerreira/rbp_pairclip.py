@@ -22,7 +22,7 @@ count_thread=1
 threads_vector=[]
 for bed in vetor_beds:
     print 'bed_files/'+bed
-    threads_vector.append( Th(count_thread,'bed_files/'+bed,'half_life_AS_maior 3h.txt'))
+    threads_vector.append( Th(count_thread,'bed_files/'+bed,'half_life_AS_menor 3h.txt'))
     print len(threads_vector)
     threads_vector[len(threads_vector)-1].start()
     count_thread+=1
